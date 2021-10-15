@@ -1,4 +1,4 @@
-# Hi there ![](https://emoji.gg/assets/emoji/wavegif_1860.gif)
+# Hi there! 👋🏻
 
 <!--
 **SahulKola/SahulKola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
