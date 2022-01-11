@@ -22,7 +22,7 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 </div>
 </br>
 <div>
-<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64px> </h1>
 <div align="left">
 <h2>Programming Languages </h2>
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/c.svg'> </a> 
@@ -77,12 +77,14 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 </div>
 <div>
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px'> </h1>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahulkola&show_icons=true&theme=dark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahulkola&show_icons=true&theme=dark" />
 </div>
-<div> 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahulkola&theme=dark" />
+</br>
+<div align="center" > 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahulkola&theme=dark" />
 </div>
+    </br>
 <div align="center">
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahulkola&show_icons=true&theme=dark&layout=compact" />
 </div>
@@ -90,6 +92,6 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 <div align="center">
 <img src="Emojis/namasthe.webp" width="35%" align="center"/>
 </div>
-<footer align='center'> 
-<h3> <a href="sahulkola.tk/portfolio">- SaHul Kola</a> </h3></footer>
-<hr>
+<footer > 
+    <h3 align='center' > <a href="sahulkola.tk/portfolio">- SaHul Kola</a> </h3>
+ </footer>
