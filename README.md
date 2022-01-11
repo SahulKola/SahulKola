@@ -15,17 +15,16 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 <img src="Emojis/wink.webp" width="30%" align="left" >
 <h1 align="right">  My Works <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "10%">  </h1>
 <div align="left">
-    <div><img width="30px" src="https://cdn-icons.flaticon.com/png/512/1306/premium/1306097.png?token=exp=1641928243~hmac=02ed3010b996212967b287cf41385dac"><a href="https://sahulkola.tk/portfolio"> Sahul Kola</a> - My Portfolio</div>
-    <div><img width="30px" src="https://cdn-icons.flaticon.com/png/512/3663/premium/3663903.png?token=exp=1641928710~hmac=02ed7d6dc401b8b585d3e14a04b64d6a"><a href="https://jntuhgpacalculator/">JNTUH GPA Calc</a> - Integrated GPA  Calculator for JNTUH Students</div>
+    <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/3314/3314883.png"><a href="https://sahulkola.tk/portfolio"> Sahul Kola</a> - My Portfolio</div>
+    <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/5027/5027478.png"><a href="https://jntuhgpacalculator/">JNTUH GPA Calc</a> - Integrated GPA  Calculator for JNTUH Students</div>
 <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/781/781760.png"><a href="https://budgetbuddyapp.herokuapp.com/"> Budget Buddy</a> - a Personal Expense Tracker</div>
     <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/1589/1589592.png"><a href="https://sahulkola.tk/careerhub" target="_blank">Career Hub </a> - Job Portal</div>
-
 </div>
 </br>
 <div>
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 <div align="left">
-<h3>Programming Languages </h3>
+<h2>Programming Languages </h2>
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/c.svg'> </a> 
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/cpp.svg'> </a> 
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/python.svg'> </a> 
@@ -33,7 +32,7 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 
 </div>
 <div align="right">
-<h3>Tools and Technologies </h3><a href= https://github.com/sahulkola> <img width ='32px' src ='icons/vscode.svg'> </a>
+<h2>Tools and Technologies </h2><a href= https://github.com/sahulkola> <img width ='32px' src ='icons/vscode.svg'> </a>
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/git.svg'> </a> 
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/github.svg'> </a> 
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/heroku.svg'> </a> 
@@ -42,7 +41,7 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 </div>
 <div align="middle">
 <img src="Emojis/laptop.webp" width="30%">
-<h3>Web Development & Database </h3>
+<h2>Web Development & Database </h2>
 <a href="https://github.com/sahulkola"> <img width ='32px' src ='icons/html.svg'> </a>
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/css.svg'> </a> 
 <a href="https://github.com/sahulkola"> > <img width ='32px' src ='icons/javascript.svg'> </a> 
@@ -56,7 +55,6 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/mysql.svg'> </a>
 <a href="https://github.com/sahulkola">  <img width ='32px' src ='icons/markdown.svg'> </a>
 </div>
-</br></br>
 <div align="left">
 <h2> Connect with me <img src='fingers-crossedd.gif' width="50px"></h2>
 <a href="https://github.com/sahulkola" target="_blank" > <img width ='32px' src ='icons/github.svg'></a>
@@ -77,17 +75,13 @@ Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 <a href= "https://facebook.com/lubzuhaldetym"  target="_blank" > <img width ='32px' src ='icons/facebook.svg'></a> <span>. </span>
 <a href= "https://snapchat.com/sahul69"  target="_blank" > <img width ='32px' src ='icons/snapchat.svg'></a> <span>. </span>
 </div>
-<hr>
-
 <div>
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px'> </h2>
+<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px'> </h1>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahulkola&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahulkola&theme=dark" />
-</a>
+</div>
+<div> 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahulkola&theme=dark" />
 </div>
 <div align="center">
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahulkola&show_icons=true&theme=dark&layout=compact" />
