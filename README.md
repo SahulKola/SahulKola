@@ -12,8 +12,7 @@
 Reach me at: [Mail2sahul.js@gmail.com](https://mailto:mail2sahul.js@gmail.com)
 </div>
 <div>
-<img src="Emojis/wink.webp" width="30%" align="left" >
-<h1 align="right">  My Works <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "10%">  </h1>
+<h1 align="left">  My Works <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "10%">  </h1>
 <div align="left">
     <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/3314/3314883.png"><a href="https://sahulkola.tk/portfolio"> Sahul Kola</a> - My Portfolio</div>
     <div><img width="30px" src="https://cdn-icons-png.flaticon.com/512/5027/5027478.png"><a href="https://jntuhgpacalculator/">JNTUH GPA Calc</a> - Integrated GPA  Calculator for JNTUH Students</div>
